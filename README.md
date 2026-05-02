@@ -1,7 +1,12 @@
 # Python-Code-Visualizer-Cod-Evisualization-System
 A Python Code Visualizer is a software system that helps users understand how Python programs execute step-by-step. It visually represents code execution, variable changes, memory allocation, and control flow, making it especially useful for students, beginners, and developers debugging complex logic.
+
+
 **#Objectives#**
+
 Simplify understanding of Python code execution Provide step-by-step visualization of program flow Help debug and analyze code behavior Improve learning of programming concepts like loops, recursion, and data structures
+
+
 **#⚙️ System Architecture#**
 
 **1. Frontend (User Interface)**
